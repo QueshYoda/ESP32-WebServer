@@ -61,9 +61,6 @@ Client disconnected
 ### Web Page
 - A page displaying buttons to control the LED state.
 
-## License
-This project is licensed under the MIT License.
-
 ## Author
 **Baha Demirtaş**
 - [GitHub](https://github.com/QueshYoda)
