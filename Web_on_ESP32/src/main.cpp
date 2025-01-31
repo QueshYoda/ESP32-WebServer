@@ -4,8 +4,8 @@
 #include <ESPmDNS.h>
 
 // Network credentials
-const char* ssid = "böööh";
-const char* password = "pisssslik";
+const char* ssid = "your-SSID";
+const char* password = "your-PASSWORD";
 
 // Set webserver on port 80
 WiFiServer server(80);
