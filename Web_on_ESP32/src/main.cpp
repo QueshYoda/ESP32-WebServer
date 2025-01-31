@@ -118,7 +118,7 @@ void loop() {
             client.println("<h2>About Me</h2>");
             client.println("<p>Hi, I'm a Computer Engineering student passionate about embedded systems, IoT, network automation and cloud native.</p>");
             client.println("<p>Check out my projects:</p>");
-            client.println("<p><a href=\"https://github.com/QueshYoda\" target=\"_blank\">GitHub</a> | <a href=\"https://www.linkedin.com/in/baha-demirta%C5%9F-175117199/\" target=\"_blank\">LinkedIn</a></p>");
+            client.println("<p><a href=\"https://github.com/QueshYoda\" target=\"_blank\">GitHub</a> | <a href=\"https://www.linkedin.com/in/baha-demirtas/\" target=\"_blank\">LinkedIn</a></p>");
             client.println("</div>");
 
             client.println("</body></html>");
